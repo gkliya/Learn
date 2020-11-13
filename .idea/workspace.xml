@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c8d8da5-d72c-49f7-a722-351036806542" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ceshitijiao" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -236,10 +235,10 @@
     <state width="1345" height="142" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1602492587668" />
     <state width="1431" height="192" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603793503984" />
     <state width="1227" height="158" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601721723390" />
-    <state x="2177" y="70" width="945" height="969" key="search.everywhere.popup" timestamp="1602730632198">
+    <state x="2177" y="70" width="945" height="969" key="search.everywhere.popup" timestamp="1605250334731">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
-    <state x="2177" y="70" width="945" height="969" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1602730632198" />
+    <state x="2177" y="70" width="945" height="969" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1605250334731" />
     <state x="577" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1601627913490" />
   </component>
 </project>
