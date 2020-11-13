@@ -1,0 +1,41 @@
+[ {
+  "uid" : "c2bfc284336f14e3",
+  "name" : "test_02",
+  "time" : {
+    "start" : 1601717081680,
+    "stop" : 1601717081680,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f315dc3518edb7df",
+  "name" : "test_add_park",
+  "time" : {
+    "start" : 1601717080396,
+    "stop" : 1601717080862,
+    "duration" : 466
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "cd96000009cb48b8",
+  "name" : "test_delete_park",
+  "time" : {
+    "start" : 1601717081127,
+    "stop" : 1601717081671,
+    "duration" : 544
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f41e076d264921b3",
+  "name" : "test_01",
+  "time" : {
+    "start" : 1601717081675,
+    "stop" : 1601717081676,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

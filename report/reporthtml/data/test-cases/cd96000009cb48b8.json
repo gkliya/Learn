@@ -1,0 +1,55 @@
+{
+  "uid" : "cd96000009cb48b8",
+  "name" : "test_delete_park",
+  "fullName" : "test_case.test_add_park#test_delete_park",
+  "historyId" : "5102fbf98b24f0798f9d0dd0e908c129",
+  "time" : {
+    "start" : 1601717081127,
+    "stop" : 1601717081671,
+    "duration" : 544
+  },
+  "description" : "先新增园区",
+  "descriptionHtml" : "<p>先新增园区</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_park"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-GQ8RH5G"
+  }, {
+    "name" : "thread",
+    "value" : "19232-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_add_park"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cd96000009cb48b8.json",
+  "parameterValues" : [ ]
+}

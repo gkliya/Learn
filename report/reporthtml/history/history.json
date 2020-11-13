@@ -1,0 +1,80 @@
+{
+  "a62a83427ff41b8beaa18f2cdeaa2e88" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f41e076d264921b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601717081675,
+        "stop" : 1601717081676,
+        "duration" : 1
+      }
+    } ]
+  },
+  "a86d7f4d8ccb629e6747bbd7bfd2e0ee" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c2bfc284336f14e3",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 1 == 2",
+      "time" : {
+        "start" : 1601717081680,
+        "stop" : 1601717081680,
+        "duration" : 0
+      }
+    } ]
+  },
+  "cd592263bab8976a59e291fe8f7eac1d" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f315dc3518edb7df",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert '当前数据 在[产业区库]里有重复' == '请求成功'\n  - 请求成功\n  + 当前数据 在[产业区库]里有重复",
+      "time" : {
+        "start" : 1601717080396,
+        "stop" : 1601717080862,
+        "duration" : 466
+      }
+    } ]
+  },
+  "5102fbf98b24f0798f9d0dd0e908c129" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cd96000009cb48b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601717081127,
+        "stop" : 1601717081671,
+        "duration" : 544
+      }
+    } ]
+  }
+}

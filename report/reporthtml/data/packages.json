@@ -1,0 +1,73 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_add_park",
+      "children" : [ {
+        "name" : "test_add_park",
+        "uid" : "f315dc3518edb7df",
+        "parentUid" : "4d722156f71ebeef91a25b54cf9c201d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1601717080396,
+          "stop" : 1601717080862,
+          "duration" : 466
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_delete_park",
+        "uid" : "cd96000009cb48b8",
+        "parentUid" : "4d722156f71ebeef91a25b54cf9c201d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601717081127,
+          "stop" : 1601717081671,
+          "duration" : 544
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4d722156f71ebeef91a25b54cf9c201d"
+    }, {
+      "name" : "test_case01",
+      "children" : [ {
+        "name" : "test_01",
+        "uid" : "f41e076d264921b3",
+        "parentUid" : "b3b3bd2ded301f3aeeee71e848ac5300",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601717081675,
+          "stop" : 1601717081676,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b3b3bd2ded301f3aeeee71e848ac5300"
+    }, {
+      "name" : "test_case02",
+      "children" : [ {
+        "name" : "test_02",
+        "uid" : "c2bfc284336f14e3",
+        "parentUid" : "177582224e2114f6d2b9b482b3869b94",
+        "status" : "failed",
+        "time" : {
+          "start" : 1601717081680,
+          "stop" : 1601717081680,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "177582224e2114f6d2b9b482b3869b94"
+    } ],
+    "uid" : "3b2e467b921b0ea8d4803b9c79d92d0c"
+  } ]
+}
